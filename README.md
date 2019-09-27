@@ -14,4 +14,7 @@
 
 
 **CNN vs MLP**
-- 
+- For the homework, it is evident that the CNN outperformed the MLP in terms of accuracy. The CNN notched a 76% accuracy while the MLP tallied just under 51%. 
+- This is due to the dataset CIFAR10 being comprised of images. These images consists a 3 dimensional array with its RGB structure. The input data already benefits CNN as its input layer requires a 3D Tensor, on the other hand an MLP requires a 2D Tensor. 
+- Another reason for the higher accuracy of CNN in the CIFAR10 dataset is how it classifies the input to the output. Remember that CNN looks for patterns, which images have while MLP merely looks at the pixels, which may confuse it given that its a 3D tensor.
+- Finally, CNN is a more specific MLP but it specializes in image data (as shown by my reasons earlier). That is why it has a higher accuracy.
