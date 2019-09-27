@@ -1,7 +1,7 @@
-###Karl Vincent M. Espiritu  
-###2015-05691
+### Karl Vincent M. Espiritu  
+### 2015-05691
 
-####CoE 197Z - HW 1
+#### CoE 197Z - HW 1
 
 **Multilayer Perceptron (MLP)**  
 - [3 Layered Multilayer Perceptron](https://github.com/espiritukarl/EEEworks/blob/master/3layerMLP.ipynb)  
